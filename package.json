@@ -13,6 +13,21 @@
   },
   "homepage": "https://github.com/bw1/webtest",
   "dependencies": {
-    "jquery": "3.5.0"
+    "bootstrap-affix": "2.2.2",
+    "bootstrap-alert": "2.2.2",
+    "bootstrap-button": "2.2.2",
+    "bootstrap-carousel": "2.2.2",
+    "bootstrap-collapse": "2.2.2",
+    "bootstrap-dropdown": "2.2.2",
+    "bootstrap-modal": "2.2.2",
+    "bootstrap-popover": "2.2.2",
+    "bootstrap-scrollspy": "2.2.2",
+    "bootstrap-tab": "2.2.2",
+    "bootstrap-tooltip": "2.2.2",
+    "bootstrap-transition": "2.2.2",
+    "bootstrap-typeahead": "2.2.2",
+    "bootstrap-transition": "2.2.2",
+    "jQuery": "1.8.1",
+    "less": "1.0.41"
   }
 }
